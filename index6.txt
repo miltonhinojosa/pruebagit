@@ -4,7 +4,7 @@
             <img
                 src="Image Source"
                 class="img-fluid rounded-start"
-                alt="Card title"
+                alt="Card titleew5ysemjrtgs.kujehtgr"
             />
         </div>
         <div class="col-md-8">
